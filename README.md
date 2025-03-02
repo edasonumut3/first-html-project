@@ -21,7 +21,6 @@ LAST HOPE, dünya çapında yardıma muhtaç insanlara destek sağlamak amacıyl
 ## Projenin Genel Özellikleri
 - Kullanıcı dostu ve basit bir arayüz.
 - Yardım alanları ve bağış yapma bölümü.
-- Responsive (duyarlı) tasarım.
 - Gönüllü olma ve giriş yapma seçenekleri.
 - Sayfa içi navigasyon menüsü.
 - Modern tasarım öğeleri ve renk uyumu.
